@@ -1,1 +1,0 @@
-# rl_gnn_group_locomotion
